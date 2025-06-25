@@ -57,7 +57,7 @@ Built a full REST API for restaurant order management with:
 
 ---
 
-### 🏋️ [Hustle Muscle Gym Website](https://github.com/amrhsn74/Exam) *(Link to be updated)*  
+### 🏋️ [Hustle Muscle Gym Website](https://github.com/amrhsn74/HMS)
 - HTML, JS, PHP, and MySQL  
 - Role-based login (Admin/User) and responsive UI
 
