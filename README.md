@@ -2,7 +2,7 @@
 
 🎓 Computer and Systems Engineering student at Helwan University  
 💻 Aspiring Backend Developer | .NET Core | Clean Architecture Enthusiast  
-📍 Cairo, Egypt | 📧 amrhsn74@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/amr-hassan-b02653231) | 🔗 [Portfolio](https://amrhsn74.github.io/)
+📍 Cairo, Egypt | 📧 amrhsn74@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/amr-hassan-b02653231) | 🔗 [Portfolio](https://amrhsn74.github.io/) | 🔗 [CV](https://drive.google.com/file/d/1kG2pzVWDvuOYbs0EvJAcyVuGKLt5Kjv0/view?usp=sharing)
 
 ---
 
